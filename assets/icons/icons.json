@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/eleni-morogianni-logo.svg"
+ },
+ "source_md5": "b202448cf92bbf0e87d3a92d04a186c2",
+ "version": "c21e83af",
+ "tile": "#F7F3EC",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "c69fed225b688c567bc64499b48a8948"
+ ],
+ "made": "2026-10-19"
+}
